@@ -12,7 +12,7 @@
 - 🧠 Learning more about **Angular**, **Clean Architecture**, **Microservices**, and **DevOps basics**
 - 👨‍🎓 Education: Pursuing Master’s in **Data Science**
 - 🛠 I focus on backend logic, component-based frontends, and real-world architecture
-- 📫 Reach me: **sameeramadghushan62220985@gmail.com**
+- 📫 Reach me: **sameeramadhushan62220985@gmail.com**
 - 🗃️ Portfolio: Coming soon!
 
 ---
